@@ -4,10 +4,10 @@ This is a comprehensive analysis of a large Twitter Retweet Graph in which we tr
 This analysis is based on s Dataset from the following paper:  
 https://arxiv.org/pdf/1803.08977.pdf
 
-Unlike the original paper, this project analyzed the characteristics of users that declare their pronouns in their Twitter-Bio. More specifically, we aim to find out whether users who declare their gender-pronouns in their bio more likely to retweet users who do the same.
+Unlike the original paper, this project analyzed the characteristics of users that declare their pronouns (such as "she/her") in their Twitter-Bio. More specifically, we aim to find out whether users who declare their gender-pronouns in their bio more likely to retweet users who do the same.
 
 This project is divided into three parts:  
-- wrangling/feature engineering part, where we take a first look at the data and engineer various features  
+- A wrangling/feature engineering part, where we take a first look at the data and engineer various features  
 - EDA part, where we visually investigate different aspects of the data   
 - And a final part where we try to answer our original research question. 
 
