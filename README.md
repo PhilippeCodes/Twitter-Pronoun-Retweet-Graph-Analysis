@@ -1,7 +1,7 @@
 # Twitter-Pronoun-Retweet-Graph-Analysis
 This is a comprehensive Analysis of a large Twitter Retweet Graph in which we try to investigate differences in users that do and do not specify their preffered gender-pronoun in their twitter-Bio
 
-This analysis is based on s Dataset from the following paper:
+This analysis is based on s Dataset from the following paper:  
 https://arxiv.org/pdf/1803.08977.pdf
 
 Unlike the original paper, this project analyzed the characteristics of users that declare their pronouns in their Twitter-Bio.
