@@ -11,7 +11,7 @@ This project is divided into three parts:
 - EDA part, where we visually investigate different aspects of the data   
 - And a final part where we try to answer our original research question. 
 
-An anonymized version of the Nodes and Edges dataset that include the pronoun Variables can be downloaded here: 
+An anonymized version of the Nodes and Edges dataset that include the pronoun Variables can be downloaded here:  
 [Nodes](https://drive.google.com/file/d/1kRc_NXVa-9dKRef6Us-HjfwhtFLCP_Yy/view?usp=sharing)   
 [Edges](https://drive.google.com/file/d/13I7V2NsWmdQNAzcrCdTQgmNs1U7txVf0/view?usp=sharing)  
 
